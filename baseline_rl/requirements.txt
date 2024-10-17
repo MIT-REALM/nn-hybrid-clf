@@ -3,7 +3,7 @@ numpy==1.18.4
 pandas==1.0.1
 scipy==1.4.1
 tmuxp==1.5.4
-torch==1.5.0
+torch==2.2.0
 tensorflow==2.4.0
 tqdm==4.46.0
 PyYAML==5.4.1
